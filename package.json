@@ -100,7 +100,7 @@
   },
   "author": "Gago <xeroice@gmail.com>",
   "dependencies": {
-    "@actions/core": "^1.6.0",
+    "@actions/core": "^1.9.1",
     "@actions/glob": "^0.2.0",
     "@calyptia/fluent-bit-config-parser": "^1.0.0",
     "axios": "^0.24.0",
